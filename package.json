@@ -1,0 +1,30 @@
+{
+  "name": "dgram_back",
+  "version": "1.0.0",
+  "description": "Blockchain with instagram Shoppingmall with",
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wooqii/Dgram_Back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wooqii/Dgram_Back/issues"
+  },
+  "homepage": "https://github.com/wooqii/Dgram_Back#readme",
+  "dependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/node": "^7.12.6",
+    "graphql-yoga": "^1.18.3",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "nodemon": "2.0.6"
+  }
+}
